@@ -9,11 +9,9 @@ I'm learning React Native, and this is my first project I built.
 # Try my Application: 
 
 <ul>
-  <p>Scan to open</p>
   <p align="center">
     <p>https://expo.io/@olwady/projects/Meteo-Application</p>
   </p>
-  <p>With an Android phone, you can scan this QR code with your Expo mobile app to load this project immediately.</p>
 </ul>
 
 # Technology stack:
