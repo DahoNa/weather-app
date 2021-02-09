@@ -6,6 +6,14 @@ I'm learning React Native, and this is my first project I built.
   <img src="https://www.ubidreams.fr/wp-content/uploads/2020/06/logo-react-native.png" />
 </p>
 
+# Try my Application: 
+<ul>
+  <p>First</p>
+  <li>https://expo.io/@olwady/projects/Meteo-Application</li>
+
+</ul>
+
+
 # Technology stack:
 <ul>
   <li>expo</li>
