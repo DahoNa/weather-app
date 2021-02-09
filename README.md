@@ -8,7 +8,10 @@ I'm learning React Native, and this is my first project I built.
 
 # Try my Application: 
 
-
+<ul>
+  <p>You can download the Expo App on Android Play Store or  iOS App Store</p>
+  <p></p>
+</ul>
 
 # Technology stack:
 <ul>
