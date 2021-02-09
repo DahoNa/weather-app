@@ -54,10 +54,8 @@ const SearchBar = () => {
 const styles = StyleSheet.create({
 
     container: {
-        justifyContent: 'center',
-        alignContent: 'center',
         padding: 10,
-        height: 540,
+        height: 1000,
         flexDirection: 'column',
         alignItems: 'center',
         backgroundColor: '#16a085'    
