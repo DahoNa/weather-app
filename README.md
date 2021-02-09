@@ -7,11 +7,7 @@ I'm learning React Native, and this is my first project I built.
 </p>
 
 # Try my Application: 
-<ul>
-  <p>First</p>
-  <li>https://expo.io/@olwady/projects/Meteo-Application</li>
 
-</ul>
 
 
 # Technology stack:
