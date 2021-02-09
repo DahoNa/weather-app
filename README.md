@@ -15,6 +15,8 @@ I'm learning React Native, and this is my first project I built.
   <li>react-navigation/stack</li>
   <li>react-navigation/bottom-tabs</li>
   <li>axios</li>
+  <li>styled-components</li>
+  <li>moment</li>
 </ul>
 
 # API: 
