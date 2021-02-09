@@ -1,4 +1,4 @@
-# weather-app
+# weather-app version 1.0
 
 I'm learning React Native, and this is my first project I built.
 
